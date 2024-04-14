@@ -1,2 +1,2 @@
 # vite-loginpage-project
-This project is based on Vite, a new frontend tooling.
+This project's environment is Vite, a branch new frontend tooling.
