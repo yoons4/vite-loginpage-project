@@ -112,7 +112,7 @@ function App() {
                     <label htmlFor="new-idemail">
                       <strong>Type Email:</strong>
                     </label>
-                    <InputBox type="text" id="new-idemail" ref={checkUsername} onChange={(e)=>setUsername(e.target.value)} value={newusername}/>
+                    <InputBox type="email" id="new-idemail" ref={checkUsername} onChange={(e)=>setUsername(e.target.value)} value={newusername}/>
 
                   </div>
                   
